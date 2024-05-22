@@ -15,13 +15,7 @@ npm dev
 markdown
 # ShopSmart Analyser
 
-## Team Name: Algorithm Alchemists
-
-### Team Members:
-- Mohd Dilshad (Leader)
-- Mohd Aftab
-- Prakash Singh Rawat
-- Aman Singh
+ 
 
 ## Description
 The ShopSmart Analyzer is a groundbreaking project designed to revolutionize the e-commerce experience by addressing common challenges faced by both buyers and sellers. With a focus on catalog quality assessment, this innovative solution employs a sophisticated scoring mechanism to evaluate products objectively.
@@ -57,9 +51,7 @@ The ShopSmart Analyzer solves several key challenges in the e-commerce landscape
   - Overall, ShopSmart Analyzer makes the process of evaluating and selecting products online more transparent, efficient, and user-friendly, contributing to a trustworthy and enjoyable e-commerce experience.
 
 
-## Presentation (PPT)
-For a detailed overview of our project, please check out our [PowerPoint Presentation](https://www.canva.com/design/DAF7wI4INDY/aSU4UQ7ChKTIUmJ-Mmn1HA/edit?utm_content=DAF7wI4INDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+ 
 
 
 
