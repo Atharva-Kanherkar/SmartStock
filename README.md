@@ -69,17 +69,7 @@ We have built ShopSmart Analyser using a diverse tech stack, including:
 - Python
 - Firestore
 
-## Screenshots
-ShopSmart Analyser:
-![Output screen](./Outpu1.jpeg)
-
-Table:
-![Output screen](./Output2.jpeg)
-
-Charts:
-![Output screen](./Output3.jpeg)
-
-
+ 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
